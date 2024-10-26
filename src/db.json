@@ -1,0 +1,53 @@
+{
+  "Profesores": {
+    "Nombre": "Kevin",
+    "Apellido": "Ortiz",
+    "Materias": [
+      {
+        "Nombre": "Desarrollo de NodeJs"
+      },
+      {
+        "Nombre": "Desarrollo con ExpressJs"
+      },
+      {
+        "Nombre": "Desarrollo con Json"
+      }
+    ]
+  },
+
+  "Alumnos": [
+    {
+      "Nombre": "Sofía",
+      "Apellido": "González",
+      "Promedio": 9.2
+    },
+    {
+      "Nombre": "Pedro",
+      "Apellido": "Andrade",
+      "Promedio": 8.5
+    },
+    {
+      "Nombre": "Ana",
+      "Apellido": "Martínez",
+      "Promedio": 9.8
+    }
+  ],
+
+  "Cursos": [
+    {
+      "Nombre": "Desarrollo Web con HTML y CSS",
+      "Duracion": "3 meses",
+      "Dificultad": "Básico"
+    },
+    {
+      "Nombre": "Bases de Datos SQL",
+      "Duracion": "4 meses",
+      "Dificultad": "Intermedio"
+    },
+    {
+      "Nombre": "Programación Avanzada en Python",
+      "Duracion": "5 meses",
+      "Dificultad": "Avanzado"
+    }
+  ]
+}
